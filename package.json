@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://apcsi2025.github.io/",
+  "homepage": "https://apcsi2025.github.io/apcsi2025.github.io",
   "scripts": {
     "dev": "vite",
     "build": "npx vite build",
